@@ -201,3 +201,68 @@ btn:before{
 #about .about-content h4 span{
     color: #e65f78;
 }
+#about .about-content .about-subtitle{
+    font-size: 18px;
+    font-weight: 400;
+    margin: 20px 0 0 0;
+}
+#about .about-content .about-desc{
+    margin: 30px 0;
+}
+#about .about-content .about-desc .desc-top{
+    margin-bottom: 20px;
+}
+#about .about-content .about-btns{
+    margin: 40px 0 20px 0;
+}
+#about .about-content .about-btns .btn-white{
+    border: 1px solid #e65f78;
+}
+#about .about-content .about-btns .btn-red{
+    margin: 0 20px 0 0;
+    border: 1px solid #e65f78;
+}
+
+.text-center{
+    text-align: center;
+}
+.section-subtitle{
+    margin: 30px 0;
+}
+.white-smoke-color{
+    background-color: #f7f7f7;
+}
+.section-title{
+    font-size: 36px;
+    padding-top: 20px;
+}
+.services-wrapper{
+    margin: 40px 0 0 0;
+}
+.services-item{
+    padding: 40px 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 25px rgb(24 24 24 / 10%);
+    transition: 0.3s;
+}
+.container1{
+    display: block;
+}
+.services-wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 15px;
+}
+
+.item-title{
+    margin: 20px 0 20px 0;
+    font-size: 23px;
+    font-weight: 500;
+}
+.icon{
+    font-size: 50px;
+    color: #e65f78;
+}
