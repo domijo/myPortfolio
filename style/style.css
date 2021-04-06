@@ -362,5 +362,50 @@ btn:before{
 #portfolio .portfolio-content .portfolio-items .item:hover .item-data{
     top: 50%;
     opacity: 1;
+}
+#testimonials .section-heading{
+    padding: 80px 0 0 0;
+    color: #fff;
+}
+.testimonials-content{
+    padding: 50px 0 30px 0;
+}
 
+.icon1{
+    font-size: 44px;
+    color: #e65f78;
+}
+.testimonials-desc{
+    margin: 20px 0 20px 0;
+    width: 60%;
+    margin: 40px auto;
+    color: #fff;
+}
+.img3{
+    width: 80px;
+    height: 80px;
+    border: 2px solid #999;
+    border-radius: 50%;
+    margin-bottom: 18px;
+}
+
+.name,.post{
+    display: block;
+    color: #fff;
+    margin-bottom: 2px;
+    text-transform: capitalize;
+}
+.name{
+    font-weight: 700;
+}
+
+.container2{
+    display: block;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.section-heading{
+    display: block;
+    
 }
